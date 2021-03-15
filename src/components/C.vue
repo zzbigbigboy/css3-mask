@@ -1,9 +1,11 @@
 <style lang="scss">
 .content_bodyC {
+  width: 100vw;
   .box {
     position: relative;
     width: 600px;
     height: 360px;
+    margin: 10px auto;
   }
 
   .img1 {
